@@ -1,1 +1,5 @@
-# Data-visualization-with-python
+The city of Rennes, the capital of Brittany, is experiencing significant expansion. Faced with challenges related to traffic congestion and pollution, urban mobility is a central issue. Despite the presence of various public transportation options, the use of cars remains dominant for many residents. Thus, urban mobility is of crucial importance for the city’s development. The aim of this project is to enhance the urban experience for residents and contribute to Rennes' sustainable development by visualizing data on urban mobility.
+
+Designed collaboratively with two classmates in an academic context, the source code of this project, written in Python, is available in the file Mobilité_Urbaine_Rennes.py. All data used, except for the APIs, are in ‘.json’ format. Information such as the number of available spaces in parking lots or bike stations is provided in real-time; simply execute the code to obtain these updates.
+
+It's worth noting that while the application serves its intended purpose, there may be room for improvements. Therefore, any suggestions for future projects are welcome.
